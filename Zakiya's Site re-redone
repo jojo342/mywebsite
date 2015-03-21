@@ -1,0 +1,64 @@
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<!--    changed title-->
+    <title>Zakiya Sims</title>
+    
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+
+    
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+</head>
+    
+<body>
+<!--    Added header tags-->
+    <header>
+        <div class="topPart">
+            <h1 class="center">Hey! I'm Zakiya</h1>
+            <h4 class="center">Full stack software developer and Student.</h4>
+        
+        
+        
+<!--        changed navs-->
+        <nav>
+            <div class="center">
+                <div class="nav">
+                    <span class="home">
+                        <a href="#">Home</a>
+                    </span>
+
+                    <span class="aboutMe">
+                        <a href="#">About Me</a>
+                    </span>
+
+                    <span class="contactMe">
+                        <a href="#">Contact Me</a>
+                    </span>
+
+                    <span class="myWork">
+                         <a href="#">My Work</a>
+                    </span>
+                </div>
+            </div>
+        </nav>
+            </div>
+    </header>
+    
+    <div class="container-fluid hr"></div>
+    
+    <img class="selfie1 img-rounded" src="https://36.media.tumblr.com/8f9e213ca6f3d90c2e2e3d67202e6988/tumblr_nlkuj1rL9e1tumtzlo1_500.png"/>
+        
+    <img class="selfie2" src=""/>
+
+        
+    </div><!--End of container-->
+    
+    
+</body>
+
+
+</html>
