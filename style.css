@@ -1,0 +1,45 @@
+body{
+    background-image:url("https://31.media.tumblr.com/8149cbb3b62ef4f1ec93110e2b218cda/tumblr_inline_mn0l3qPvS11qz4rgp.png"); 
+    background-size: cover;
+    background-position: center;
+    cursor: default;
+}
+
+.center{
+    text-align: center;
+}
+
+header{
+    background-image: url("https://40.media.tumblr.com/cee91d23b6a83559079e825e2c587aff/tumblr_nlj9p8t0PE1tf8vylo1_540.png");
+    background-size: cover;
+    background-position: center;
+    border-top: #26c560 solid 15px;
+    border-bottom: auto 0;
+    height:50%;
+    color: white;
+}
+
+.hr{
+    background-color: #539ec2;
+    height: 10px;
+}
+
+.nav{
+    cursor: pointer;
+    display: inline;
+    margin-left: 30px;
+}
+
+.selfie1{
+    position: relative;
+        height: 200px;
+        width:200px;
+        left: 43%;
+        top:-100px;
+    border: solid 10px #539ec2;
+}
+
+.topPart{
+    position: relative;
+    top:30%;
+}
